@@ -102,7 +102,7 @@ mask use and vaccine rates.
 ** Note: **
 Due to the very small amount of data, this is not a necessarily a useful result.
 Our training set had 43 samples while our test had 8 samples.
-The more difficult / insightful problem to solve would be predicting by county or city.
+The more difficult / insightful problem to solve would be predicting presidential vote by county or city.
 
 
 
