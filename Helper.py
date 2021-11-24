@@ -90,3 +90,25 @@ with st.echo():
     accuracy = sum(y_pred == y_test) / len(y_test)
 
     st.write(accuracy)
+
+print(len(y_test))
+st.write(
+"""
+# Conclusion
+Using Logistic Regression we were able to predict with 100% accuracy which states
+voted Republican or Democratic in the 2020 election based on their
+mask use and vaccine rates.
+
+** Note: **
+Due to the very small amount of data, this is not a necessarily a useful result.
+Our training set had 43 samples while our test had 8 samples.
+The more difficult / insightful problem to solve would be predicting by county or city.
+
+
+
+
+"""
+
+
+
+)
